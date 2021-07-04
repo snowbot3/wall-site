@@ -2,8 +2,8 @@
  * App Page Notes
  */
 
-import { format as df } from '/js/date.js';
-import { css, doms, elem } from '/js/wall.js';
+import { format as df } from '../date.js';
+import { css, doms, elem } from '/wall/js/all.mjs';
 
 css(`div.note-stack {
 	margin: 1em;

@@ -1,6 +1,6 @@
 /** Tiles page helper: Grid */
 
-import { elem } from '/js/wall.js';
+import { elem } from '/wall/js/all.mjs';
 
 export default class GridConcept {
 	method=undefined;

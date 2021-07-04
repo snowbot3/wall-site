@@ -1,6 +1,6 @@
 /** Tiles page */
 
-import { css, elem, doms } from '/js/wall.js';
+import { css, elem, doms } from '/wall/js/all.mjs';
 import GridConcept from './tiles/grid.mjs';
 
 css.link('./css/tiles.css').then(function(sheet){

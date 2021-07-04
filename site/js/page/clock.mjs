@@ -1,6 +1,6 @@
 // clock
-import { format as df } from '/js/date.js';
-import { elem } from '/js/wall.js';
+import { format as df } from '../date.js';
+import { elem } from '/wall/js/all.mjs';
 
 const dfTime = df`h:mm:ss tt`;
 

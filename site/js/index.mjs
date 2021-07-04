@@ -2,8 +2,8 @@
  * App Site
  */
 
-import { css, doms, elem, frame } from './wall.js';
-css.link('/css/global.css');
+import { css, doms, elem, frame } from '/wall/js/all.mjs';
+css.link('css/global.css');
 
 function link(url, text) {
 	return doms((div,a)=>div(
