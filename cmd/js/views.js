@@ -1,5 +1,5 @@
 import * as view from './view.js';
-import { css, doms, dom, elem } from '/js/wall.js';
+import { css, doms, dom, elem } from '/wall/js/all.mjs';
 
 // css.
 

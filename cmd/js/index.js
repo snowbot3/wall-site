@@ -2,9 +2,9 @@
  * Cmd Site
  */
 
-import { css, doms, dom, elem } from './wall.js';
+import { css, doms, dom, elem } from '/wall/js/all.mjs';
 import * as cmd from './cmd.js';
-css.link('/css/global.css');
+css.link('css/global.css');
 
 const divOutput = elem`div class=l-output`();
 const inputCmd = dom`input autofocus`();

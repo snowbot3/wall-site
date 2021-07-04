@@ -1,4 +1,4 @@
-import { dom, elem } from '/js/wall.js';
+import { dom, elem } from '/wall/js/all.mjs';
 
 /**
  * view concepts:

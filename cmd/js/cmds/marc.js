@@ -1,5 +1,5 @@
 // marc table concept command?
-import { css, dom, elem } from '../wall.js';
+import { css, dom, elem } from '/wall/js/all.mjs';
 import exdata from './marcdata.js';
 
 css(`
