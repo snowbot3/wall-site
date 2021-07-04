@@ -4,8 +4,8 @@
  * http://www.windows93.net/
  */
 
-import { css, doms, dom } from './wall.js';
-css.link('/css/win31.css');
+import { css, doms, dom } from '/wall/js/all.mjs';
+css.link('win31.css');
 
 function px(px) {
 	return '' + px + 'px';
